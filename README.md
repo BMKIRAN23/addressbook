@@ -1,4 +1,4 @@
-BM poll SCM
+BM bm poll SCM
 Created pipeline
 Addressbook Tutorial
 ====================
